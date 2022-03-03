@@ -1,0 +1,28 @@
+---
+content_type: resource
+description: ''
+file: null
+learning_resource_types:
+- Lecture Videos
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture notes ([PDF](resources/15_580ln_fa08))
+resource_index_text: ''
+resourcetype: Video
+title: Lecture 15
+uid: 36acf187-fc44-5ec8-0d11-5005a08affc9
+video_files:
+  archive_url: http://www.archive.org/download/MIT5-80F08/mit-5.80-f08-lec15_300k.mp4
+  video_captions_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/3p-AfjvEDqs/default.jpg
+  video_transcript_file: null
+video_metadata:
+  youtube_id: 3p-AfjvEDqs
+---
+
+**Topics covered:** 2∏ and 2∑ matrices
+
+**Instructor:** Prof. Robert Field
