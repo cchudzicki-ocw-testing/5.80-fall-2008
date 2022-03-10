@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture notes ([PDF](resources/25_580ln_fa08))
+related_resources_text: Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/25_580ln_fa08))
 resource_index_text: ''
 resourcetype: Video
 title: Lecture 25
