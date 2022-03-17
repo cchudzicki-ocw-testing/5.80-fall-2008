@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: a11b4b41-6830-61a2-f43f-974b18e371a4
+video_metadata:
+  youtube_id: null
 ---
 
 5.80 includes supplemental lectures as indicated by the (S) symbol.
@@ -192,7 +194,7 @@ Laser schemes for rotational assignment first lines for Ω', Ω" assignments
 
 Definition of angular momenta and | A α M{{< sub "A" >}} >
 
-Evaluation of {{< resource b7b70209-7e9d-67f2-8f04-bead391ea892 "" >}}
+Evaluation of {{< resource "b7b70209-7e9d-67f2-8f04-bead391ea892" >}}
 
 
 {{< tdclose >}}
@@ -419,7 +421,7 @@ Electronic spectra of polyatomic molecules
 32
 {{< tdclose >}}
 {{< tdopen >}}
-The {{< resource bf031b3c-350b-21f3-8032-3d9fdb64bffe "" >}} transition
+The {{< resource "bf031b3c-350b-21f3-8032-3d9fdb64bffe" >}} transition
 {{< tdclose >}}
 
 {{< trclose >}}
