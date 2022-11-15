@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -13,6 +15,7 @@ related_resources_text: "Lecture notes ([PDF](/courses/5-80-small-molecule-spect
   \  \nSupplemental notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/08s_elecconfigs))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 8
 uid: 3f925af0-7ba6-d8f0-bcc5-5df8176cbe0b
 video_files:
@@ -27,3 +30,4 @@ video_metadata:
 **Topics covered:** The Born-Oppenheimer approximation
 
 **Instructor:** Prof. Robert Field
+

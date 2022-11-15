@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides exams from previous academic years.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: 6ac4e0f9-a9af-2157-6f4f-b785a617a113
+video_metadata:
+  youtube_id: null
 ---
 
 Exams from previous academic years.

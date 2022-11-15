@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides problem sets on small-molecule spectroscopy and
+  dynamics, solutions to selected problem sets, and supplemental resources.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 5e5e8a1f-8400-93d0-89b7-18d990e250dd
+video_metadata:
+  youtube_id: null
 ---
 
 These problem sets were drawn from previous academic years.
